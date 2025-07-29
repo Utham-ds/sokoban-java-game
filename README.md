@@ -1,18 +1,24 @@
-# Sokoban Java Game 🧱🎮
+# Sokoban Game
 
-A desktop-based Sokoban game developed in Java using object-oriented design principles and Java Swing. The game simulates the classic puzzle logic of pushing boxes to designated goals.
+A Java-based implementation of the classic Sokoban puzzle game. Developed as part of my academic coursework, this game involves object-oriented programming, game logic, and GUI development using Java.
 
-## 🔧 Features
-- Multiple levels with increasing difficulty
-- Player movement using keyboard keys
-- Win-condition detection
-- Java Swing GUI
+## Features
+- Tile-based puzzle game
+- Keyboard-controlled movement
+- Win condition detection
+- Designed with modular code structure
 
-## 🛠️ Technologies
-- Java (Core + OOP)
-- Java Swing
+## Tech Stack
+- Java
+- Java Swing (for GUI)
+- Object-Oriented Programming Principles
 
-## 🧩 Gameplay Preview
-*(Include a screenshot or GIF of the game here)*
+## How to Play
+1. Run the main file using any Java IDE.
+2. Use arrow keys to move the player and push blocks to the target positions.
+3. Game ends when all blocks are placed correctly.
 
-## 📁 Folder Structure
+
+
+## Author
+Utham Kumar. M
